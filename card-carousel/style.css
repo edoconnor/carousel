@@ -1,0 +1,11 @@
+.cards-wrapper {
+  display: flex;
+}
+.card {
+  margin: 0 auto;
+  max-width: 500px;
+  width: 60vw;
+}
+.carousel {
+  margin-top: 2rem;
+}
